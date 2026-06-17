@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Task Management Assignment",
+    "description": "Build CRUD app using React and Node.js",
+    "completed": false,
+    "priority": "High"
+  }
+]
