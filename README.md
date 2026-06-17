@@ -85,7 +85,7 @@ TaskManager/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Ankush7058/TaskManager.git
+git clone https://github.com/shraddhas1303/TaskManagement
 ```
 
 ### Backend Setup
@@ -187,4 +187,5 @@ https://taskmanager-f68y.onrender.com/tasks
 
 GitHub:
 
+https://github.com/shraddhas1303/TaskManagement
 
