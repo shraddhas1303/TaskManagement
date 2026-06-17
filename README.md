@@ -183,8 +183,8 @@ https://taskmanager-f68y.onrender.com/tasks
 
 ## 👨‍💻 Author
 
-**Ankush Pandit**
+**Shraddha Shirsath**
 
 GitHub:
-https://github.com/Ankush7058
+
 
