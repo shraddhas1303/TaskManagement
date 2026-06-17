@@ -65,7 +65,7 @@ TaskManager/
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── TaskModal.jsx
-│   │   │   └── TaskList.jsx
+│   │   │   
 │   │   │
 │   │   ├── services/
 │   │   │   └── taskService.js
